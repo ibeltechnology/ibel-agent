@@ -1,0 +1,5 @@
+# dotfiles
+.*
+!.gitignore
+!.gitkeep
+!.env
